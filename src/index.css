@@ -1,0 +1,45 @@
+body {
+
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.svg {
+  fill: black;
+  width: 15rem;
+  height: 15rem;
+  margin: 0 1rem;
+
+}
+
+.svg:hover {
+  fill: azure;
+}
+
+.srcSvg1{
+  fill: rgb(24, 23, 23);
+  width: 80%;
+  height: 80%;
+  opacity: .5;
+}
+
+@media screen and (max-width:768px) {
+  .svg {
+    fill:azure;
+    width: 18rem;
+    height: 18rem;
+  }
+}
+@media screen and (max-width:425px) {
+  .svg {
+    width: 10rem;
+    height: 10rem;
+  }
+}
