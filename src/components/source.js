@@ -29,7 +29,7 @@ const Source = () => {
       </A>
 
       <A
-        href="https://codebookcommx.wordpress.com"
+        href="https://drive.google.com/file/d/1X6SCrff1JTuzjpVvx9NUL4Ay8StgEp5M/view?usp=sharing"
         target="_blank"
         rel="noreferrer"
       >
