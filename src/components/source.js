@@ -8,7 +8,7 @@ const Container = styled.div`
   width: 25%;
   position: fixed;
   top: 10px;
-  right: 10px;
+  left: 10px;
   display: flex;
   z-index: 15;
 `;
